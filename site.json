@@ -1,0 +1,11 @@
+{
+  "title": "Nishita Phutane | Portfolio",
+  "description": "Portfolio of Nishita Phutane, Computing Science student at the University of Glasgow - projects, experience and contact.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
