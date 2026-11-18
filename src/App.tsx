@@ -261,7 +261,7 @@ function App() {
 
         <section className="contact" id="contact">
           <div className="contact-orb" aria-hidden="true"><span>C</span><span>N</span><span>O</span></div>
-          <div data-reveal><SectionLabel number="06">Contact</SectionLabel><h2>Let’s investigate<br /><em>what’s possible.</em></h2><p>I’m interested in research opportunities and collaborations across computational drug discovery, cheminformatics, scientific machine learning, and medical data.</p><a className="email-link" href="mailto:nishitaphutane@gmail.com">nishitaphutane@gmail.com <span>↗</span></a><div className="socials"><a href="https://www.linkedin.com/in/nishita-phutane" target="_blank" rel="noreferrer">LinkedIn ↗</a><a href="https://github.com/nishitaphutane" target="_blank" rel="noreferrer">GitHub ↗</a><a href="https://nishitaphutane.github.io/my_portfolio/" target="_blank" rel="noreferrer">Portfolio ↗</a></div></div>
+          <div data-reveal><SectionLabel number="06">Contact</SectionLabel><h2>Let’s investigate<br /><em>what’s possible.</em></h2><p>I’m interested in research opportunities and collaborations across computational drug discovery, cheminformatics, scientific machine learning, and medical data.</p><a className="email-link" href="mailto:nishitaphutane@gmail.com">nishitaphutane@gmail.com <span>↗</span></a><div className="socials"><a href="https://www.linkedin.com/in/nishita-phutane" target="_blank" rel="noreferrer">LinkedIn ↗</a><a href="https://nishitaphutane.github.io/my_portfolio/" target="_blank" rel="noreferrer">Portfolio ↗</a></div></div>
         </section>
       </main>
       <footer><span>© {new Date().getFullYear()} Nishita Phutane</span><span>Computing science for better discovery.</span></footer>
